@@ -1,0 +1,1 @@
+{:bbin/bin {portal {:main-opts ["-m" "rads.portal-cli"]}}}
