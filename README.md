@@ -1,5 +1,7 @@
 # portal-cli
 
+Open [Portal](https://github.com/djblue/portal) windows from the command-line.
+
 ```shell
 $ bbin install io.github.rads/portal-cli
 {:lib io.github.rads/portal-cli,
