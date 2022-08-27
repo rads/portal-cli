@@ -3,4 +3,5 @@
                                   :git/sha "1a841c4cc1d4f6dab7505a98ed2d532dd9d56b78"}
          djblue/portal {:mvn/version "0.29.1"}}
  :aliases 
- {:neil {:project {:name rads/portal-cli}}}}
+ {:neil {:project {:name rads/portal-cli
+                   :version "0.0.1"}}}}
